@@ -22,10 +22,14 @@ jobs:
         run: flutter pub get
 
       - name: Build IPA
-        run: flutter build ipa --no-codesign
+        run: |
+          flutter build ipa --no-codesign
+          mkdir Payload
+          cp -r build/ios/archive/Runner.xcarchive/Products/Applications/Runner.app Payload/
+          zip -r release.ipa Payload
 
       - name: Upload IPA Artifact
         uses: actions/upload-artifact@v4
         with:
           name: ios-ipa
-          path: build/ios/ipa/*.ipa
+          path: release.ipa
