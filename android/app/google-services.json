@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "459832035251",
+    "project_id": "deliv-4b593",
+    "storage_bucket": "deliv-4b593.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459832035251:android:83e10f0c7288d66f5dedc6",
+        "android_client_info": {
+          "package_name": "deliv.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459832035251-cdrcc4g3alnfoqa4i35nahbqdiqbc5on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deliv.driver.app",
+            "certificate_hash": "7495dc73e612a2c58fac5f14f81e690a1fc34e3d"
+          }
+        },
+        {
+          "client_id": "459832035251-h619l3opdt2egslco96rr4oh0a93cbiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deliv.driver.app",
+            "certificate_hash": "3df5523ccb6361cc8727b0cb756e98e8cbdf8ee4"
+          }
+        },
+        {
+          "client_id": "459832035251-c5a72rod3ke6n8pgeo3jd2gobhsv6tc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyNqEFNHdeyng_HsTs7HB-qVQO_EnW_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459832035251-c5a72rod3ke6n8pgeo3jd2gobhsv6tc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459832035251:android:184dcf20edce9a015dedc6",
+        "android_client_info": {
+          "package_name": "deliv.restaurant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459832035251-6etkg54mv3tefnjlij8n576krofogb2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deliv.restaurant.app",
+            "certificate_hash": "7495dc73e612a2c58fac5f14f81e690a1fc34e3d"
+          }
+        },
+        {
+          "client_id": "459832035251-v4u41g1jkdb7s0anj4is8delbme6nr97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deliv.restaurant.app",
+            "certificate_hash": "3df5523ccb6361cc8727b0cb756e98e8cbdf8ee4"
+          }
+        },
+        {
+          "client_id": "459832035251-c5a72rod3ke6n8pgeo3jd2gobhsv6tc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyNqEFNHdeyng_HsTs7HB-qVQO_EnW_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459832035251-c5a72rod3ke6n8pgeo3jd2gobhsv6tc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459832035251:android:a78109001c0e76de5dedc6",
+        "android_client_info": {
+          "package_name": "deliv.user.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459832035251-fp2731srcirbj5cperc20cbrmbj9r9pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deliv.user.app",
+            "certificate_hash": "7495dc73e612a2c58fac5f14f81e690a1fc34e3d"
+          }
+        },
+        {
+          "client_id": "459832035251-g8n4uss0ko2r0tq3031grrab80i47eo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "deliv.user.app",
+            "certificate_hash": "3df5523ccb6361cc8727b0cb756e98e8cbdf8ee4"
+          }
+        },
+        {
+          "client_id": "459832035251-c5a72rod3ke6n8pgeo3jd2gobhsv6tc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzyNqEFNHdeyng_HsTs7HB-qVQO_EnW_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459832035251-c5a72rod3ke6n8pgeo3jd2gobhsv6tc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
